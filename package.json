@@ -1,6 +1,7 @@
 {
-  "author": "Joanna Ruth Nelapudi",
+
   "name": "fcc-learn-npm-package-json",
+  "author": "Joanna Ruth Nelapudi",
   "dependencies": {
     "express": "^4.14.0"
   },
